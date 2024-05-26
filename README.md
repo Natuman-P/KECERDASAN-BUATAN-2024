@@ -1,5 +1,7 @@
 Tugas Kelompok Kecerdasan Buatan
 
+Nama Kelompok: Kelompok Bumantara
+
 Nama Anggota:
 1. Andes Potipera Sitepu            (2215061080)
 2. M. Luthfi Alfaridzi              (2215061072)
